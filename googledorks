@@ -100,4 +100,5 @@ site:*.gov intext:"submit a vulnerability"
     - filetype:bak inurl:backup site:target.com
     - filetype:zip inurl:backup site:target.com
     - filetype:tgz inurl:backup site:target.com
+inurl:cmd | inurl:exec= | inurl:query= | inurl:code= | inurl:do= | inurl:run= | inurl:read= | inurl:ping= inurl:& site:example[.]com
 
